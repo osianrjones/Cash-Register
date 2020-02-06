@@ -1,0 +1,36 @@
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.LoginForm1.resources
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\obj\x86\Debug\WindowsApplication1.LoginScreen.resources
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\obj\x86\Debug\WindowsApplication1.PurchasingScreen.resources
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\obj\x86\Debug\WindowsApplication1.LogAdmin.resources
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\osian\OneDrive\Documents\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\osian\Desktop\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\bin\Debug\Cash Register.exe
+C:\Users\osian\Desktop\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\bin\Debug\Cash Register.pdb
+C:\Users\osian\Desktop\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\bin\Debug\Cash Register.xml
+C:\Users\osian\Desktop\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\obj\x86\Debug\WindowsApplication1.LoginScreen.resources
+C:\Users\osian\Desktop\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\osian\Desktop\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\obj\x86\Debug\WindowsApplication1.PurchasingScreen.resources
+C:\Users\osian\Desktop\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\obj\x86\Debug\WindowsApplication1.LogAdmin.resources
+C:\Users\osian\Desktop\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\osian\Desktop\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\osian\Desktop\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\obj\x86\Debug\Cash Register.exe
+C:\Users\osian\Desktop\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\obj\x86\Debug\Cash Register.xml
+C:\Users\osian\Desktop\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\obj\x86\Debug\Cash Register.pdb
+C:\Users\osian\Desktop\Visual Studio 2010\Projects\Cash Register\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Generate_Barcode.resources
