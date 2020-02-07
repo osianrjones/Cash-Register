@@ -39,68 +39,66 @@ Partial Class LogAdmin
         '
         'UsernameLabel
         '
-        Me.UsernameLabel.Location = New System.Drawing.Point(183, 25)
-        Me.UsernameLabel.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
+        Me.UsernameLabel.Location = New System.Drawing.Point(244, 31)
         Me.UsernameLabel.Name = "UsernameLabel"
-        Me.UsernameLabel.Size = New System.Drawing.Size(165, 19)
+        Me.UsernameLabel.Size = New System.Drawing.Size(220, 23)
         Me.UsernameLabel.TabIndex = 0
         Me.UsernameLabel.Text = "&User name"
         Me.UsernameLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
         'PasswordLabel
         '
-        Me.PasswordLabel.Location = New System.Drawing.Point(184, 76)
-        Me.PasswordLabel.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
+        Me.PasswordLabel.Location = New System.Drawing.Point(245, 94)
         Me.PasswordLabel.Name = "PasswordLabel"
-        Me.PasswordLabel.Size = New System.Drawing.Size(165, 19)
+        Me.PasswordLabel.Size = New System.Drawing.Size(220, 23)
         Me.PasswordLabel.TabIndex = 2
         Me.PasswordLabel.Text = "&Password"
         Me.PasswordLabel.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
         'txtUsername
         '
-        Me.txtUsername.Location = New System.Drawing.Point(185, 46)
-        Me.txtUsername.Margin = New System.Windows.Forms.Padding(2)
+        Me.txtUsername.Location = New System.Drawing.Point(247, 57)
+        Me.txtUsername.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.txtUsername.Name = "txtUsername"
-        Me.txtUsername.Size = New System.Drawing.Size(166, 20)
+        Me.txtUsername.Size = New System.Drawing.Size(220, 22)
         Me.txtUsername.TabIndex = 1
         '
         'txtPassword
         '
-        Me.txtPassword.Location = New System.Drawing.Point(185, 97)
-        Me.txtPassword.Margin = New System.Windows.Forms.Padding(2)
+        Me.txtPassword.Location = New System.Drawing.Point(247, 119)
+        Me.txtPassword.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.txtPassword.Name = "txtPassword"
         Me.txtPassword.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
-        Me.txtPassword.Size = New System.Drawing.Size(166, 20)
+        Me.txtPassword.Size = New System.Drawing.Size(220, 22)
         Me.txtPassword.TabIndex = 3
         '
         'OK
         '
-        Me.OK.Location = New System.Drawing.Point(203, 141)
-        Me.OK.Margin = New System.Windows.Forms.Padding(2)
+        Me.OK.Location = New System.Drawing.Point(271, 174)
+        Me.OK.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.OK.Name = "OK"
-        Me.OK.Size = New System.Drawing.Size(70, 19)
+        Me.OK.Size = New System.Drawing.Size(93, 23)
         Me.OK.TabIndex = 4
         Me.OK.Text = "&OK"
         '
         'Cancel
         '
         Me.Cancel.DialogResult = System.Windows.Forms.DialogResult.Cancel
-        Me.Cancel.Location = New System.Drawing.Point(280, 141)
-        Me.Cancel.Margin = New System.Windows.Forms.Padding(2)
+        Me.Cancel.Location = New System.Drawing.Point(373, 174)
+        Me.Cancel.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.Cancel.Name = "Cancel"
-        Me.Cancel.Size = New System.Drawing.Size(70, 19)
+        Me.Cancel.Size = New System.Drawing.Size(93, 23)
         Me.Cancel.TabIndex = 5
         Me.Cancel.Text = "&Cancel"
         '
         'LogAdmin
         '
         Me.AcceptButton = Me.OK
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.GrayText
         Me.CancelButton = Me.Cancel
-        Me.ClientSize = New System.Drawing.Size(377, 188)
+        Me.ClientSize = New System.Drawing.Size(503, 231)
         Me.Controls.Add(Me.Cancel)
         Me.Controls.Add(Me.OK)
         Me.Controls.Add(Me.txtPassword)
@@ -108,7 +106,7 @@ Partial Class LogAdmin
         Me.Controls.Add(Me.PasswordLabel)
         Me.Controls.Add(Me.UsernameLabel)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog
-        Me.Margin = New System.Windows.Forms.Padding(2)
+        Me.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.MaximizeBox = False
         Me.MinimizeBox = False
         Me.Name = "LogAdmin"

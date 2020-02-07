@@ -1,4 +1,5 @@
-3422342320003 = Male Navy Cashmere Sweater (M), £56
-7876990239804 = Female Hampton Down Coat (S) , £150
-2132342342000 = Male Simon Skinny Black (34W, 32L) , £85
-3456534534004 = Female Sophie Straight White (26W, 24L) , £75
+3422342320003,Male Navy Cashmere Sweater (M),56
+7876990239804,Female Hampton Down Coat (S),150
+2132342342000,Male Simon Skinny Black (34W, 32L),85
+3456534534004,Female Sophie Straight White (26W, 24L),75
+

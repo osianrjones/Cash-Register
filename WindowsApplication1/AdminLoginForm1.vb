@@ -9,10 +9,11 @@
     ' such as the username, display name, etc.
 
     Private Sub OK_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles OK.Click
-        If txtUsername.Text = "Osian" And txtPassword.Text = "willow01" Then
+        If txtUsername.Text = "Osian" And txtPassword.Text = "Willow01" Then
 
-            Me.WindowState = FormWindowState.Minimized
+
             Me.Hide()
+            AdminForm.Show()
 
 
         End If
@@ -25,6 +26,10 @@
 
    
     Private Sub PictureBox1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+
+    End Sub
+
+    Private Sub TxtUsername_TextChanged(sender As Object, e As EventArgs) Handles txtUsername.TextChanged
 
     End Sub
 End Class
